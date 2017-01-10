@@ -13,5 +13,5 @@ EditorBuildSettings:
     path: Assets/cafe.unity
   - enabled: 0
     path: Assets/cafe2.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/cafe3.unity
